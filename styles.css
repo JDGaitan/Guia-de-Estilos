@@ -22,3 +22,21 @@
 .flex-column button {
   margin-top: 10px;
 }
+
+.modal-body-display {
+  display: flex !important;
+  flex-direction: row !important;
+  /* flex-wrap: wrap; */
+}
+
+.modal-body input, label {
+  margin-top: 6px;
+}
+
+.modal-body-display input {
+  margin-right: 6px;
+}
+
+.end {
+  margin-bottom: 100px;
+}
