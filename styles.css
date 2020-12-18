@@ -1,0 +1,9 @@
+.flex-column {
+  display: flex !important;
+  flex-direction: column !important;
+  width: fit-content !important;
+}
+
+.flex-column button {
+  margin-top: 10px;
+}
